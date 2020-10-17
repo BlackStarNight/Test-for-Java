@@ -1,6 +1,8 @@
 package Java_tests;
 
-import java.sql.SQLOutput;
+//Задача:
+//Заполните массив случайным числами и выведете максимальное, минимальное и среднее значение.
+//Для генерации случайного числа используйте метод Math.random(), который возвращает значение в промежутке [0, 1].
 
 public class Test_1_1 {
     public static void main(String[] args) {
